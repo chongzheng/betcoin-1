@@ -13,5 +13,5 @@
 #Blank lines are ignored.
 
 #Win32_Path		                                     Mount_Point
-E:/workspace/MinGW64		                         /mingw
-E:/workspace/MinGW64/x32-4.8.1-posix-dwarf-rev5      /mingw64
+E:/workspace/github/betcoin/MinGW64		                            /mingw
+E:/workspace/github/betcoin/MinGW64/x32-4.8.1-posix-dwarf-rev5      /mingw64
