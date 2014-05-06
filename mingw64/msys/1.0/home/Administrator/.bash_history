@@ -1,3 +1,0 @@
-echo $PATH
-g++
-exit
