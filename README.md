@@ -5,4 +5,4 @@ better than bitcoin
 
 ===Notice====
 
-if building on win7, notice the access fault of <Users> group, assign all access of the top directory to <Users> group to fix this.
+if building on win7, careful about the permission of file system, it is better to assign all access priviledge to the building user.
